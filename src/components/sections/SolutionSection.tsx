@@ -48,7 +48,7 @@ export default function SolutionSection() {
               <div className="w-16 h-16 bg-primary/10 rounded-2xl flex items-center justify-center mb-4">
                 <Icon name="Search" className="text-primary" size={32} />
               </div>
-              <CardTitle>Тайный shopper и звонок</CardTitle>
+              <CardTitle>Тайный shopper и звонок от нашего эксперта</CardTitle>
             </CardHeader>
             <CardContent>
               <p className="text-slate-600">
@@ -63,7 +63,7 @@ export default function SolutionSection() {
               <div className="w-16 h-16 bg-primary/10 rounded-2xl flex items-center justify-center mb-4">
                 <Icon name="Users" className="text-primary" size={32} />
               </div>
-              <CardTitle>Конфиденциальные опросы франчайзи</CardTitle>
+              <CardTitle>Конфиденциальные опросы действующих франчайзи</CardTitle>
             </CardHeader>
             <CardContent>
               <p className="text-slate-600">

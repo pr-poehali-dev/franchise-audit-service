@@ -31,12 +31,12 @@ export default function CTASection() {
             
             <Button size="lg" className="w-full text-xl py-6 mb-4">
               <Icon name="ShieldCheck" className="mr-2" size={24} />
-              Заказать аудит с промокодом SAFE1
+              Заказать аудит со скидкой 10%
             </Button>
             
             <div className="bg-yellow-50 rounded-lg p-4 border border-yellow-200">
               <p className="text-sm text-yellow-800">
-                <strong>Бонус!</strong> Для первых 20 клиентов — проверка вашего будущего договора аренды 
+                <strong>Успейте до конца месяца!</strong> Для первых 20 клиентов по промокоду <strong>SAFE1</strong> — проверка вашего будущего договора аренды 
                 в <strong>подарок!</strong> (Стоимость услуги отдельно — 15 000 руб.)
               </p>
             </div>
